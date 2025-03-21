@@ -593,7 +593,7 @@ body {
 
   .white {
     width: 100%;
-    padding-top: 1px;
+    padding-top: 10vh;
     line-height: 5vh;
     
   }
