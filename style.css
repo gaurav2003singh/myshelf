@@ -20,7 +20,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* background-image: linear-gradient(to right, rgb(25, 0, 255) , rgb(0, 191, 255)); */
+  
   background: #cdd1dc;
   border-radius: 5px;
 }
@@ -599,7 +599,7 @@ body {
   }
   .gg{
     width: 100%;
-    text-align:centre;
+   
   }
 
   .gg h4 {
@@ -608,8 +608,8 @@ body {
    width: 100%;
     text-align:centre;
     word-spacing: 2px;
-    font-size: 1.5em;
-    margin-left: 2vh;
+    font-size: 1.8em;
+    margin-left: 4vh;
   
     
   }
@@ -764,7 +764,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    margin-top: 7vh;
+    margin-top: 9vh;
     margin-left: 50%;
   }
 
@@ -780,13 +780,10 @@ body {
     margin-top: 2vh;
   }
   .last{
-    margin-top: 10vh;
+    margin-top: 15vh;
   }
 
-  /* #skills{
-    animation: none;
-    
-  } */
+ 
 
   #project{
     display: flex;
@@ -806,5 +803,11 @@ body {
   .work img{
      
       object-fit: cover;
+  }
+
+  .last h1{
+    color: #27ae60;
+    background: #39f50535;
+    font-size: 1em;
   }
 }
