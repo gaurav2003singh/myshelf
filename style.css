@@ -598,14 +598,15 @@ body {
     
   }
   .gg{
-    width: 100%:
+    width: 100%;
     text-align:centre;
   }
 
   .gg h4 {
     display: flex;
     animation: none;
-   
+   width: 100%;
+    text-align:centre;
     word-spacing: 2px;
     font-size: 1.5em;
     margin-left: 2vh;
