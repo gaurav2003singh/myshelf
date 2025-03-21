@@ -597,11 +597,15 @@ body {
     line-height: 5vh;
     
   }
+  .gg{
+    width: 100%:
+    text-align:centre;
+  }
 
   .gg h4 {
     display: flex;
     animation: none;
-   width: 80%;
+   
     word-spacing: 2px;
     font-size: 1.5em;
     margin-left: 2vh;
@@ -656,11 +660,12 @@ body {
   }
 
   .nav2 {
-    top: 15vh;
+    top: 10vh;
     position: fixed;
     width: 100%;
     height: 40%;
     padding: 0%;
+    margin: 0%;
     background-color: rgba(5, 86, 129, 0.933);
     border-bottom: 1px solid rgba(0, 0, 0, 0.716);
     flex-direction: column;
